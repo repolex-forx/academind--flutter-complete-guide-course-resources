@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/academind/flutter-complete-guide-course-resources/commit/ec5eac129a0a7357930788564d307c6a0eb05c0c",
       "git:hexsha": "ec5eac129a0a7357930788564d307c6a0eb05c0c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T05:26:34.460177+00:00"
     }
   ]
 }
